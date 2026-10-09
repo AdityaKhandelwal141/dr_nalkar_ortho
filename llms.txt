@@ -1,0 +1,37 @@
+# Dr. Abhijeet R Nalkar — Orthopaedic Surgeon
+
+> Orthopaedic surgeon practising in Ahilyanagar and Rahuri. Focus areas include robotic joint replacement, total knee and hip replacement, unicondylar knee replacement, and knee and shoulder arthroscopy.
+
+## Doctor
+- Name: Dr. Abhijeet R Nalkar
+- Qualification: MBBS, DNB (Ortho)
+- Specialty: Orthopaedic Surgery
+
+## Practice Locations
+- Saideep Sahyadri Hospital — Ahilyanagar
+- Nalkar Orthopedic Clinic — Rahuri
+
+## Confirmed Treatment Areas
+1. Robotic Joint Replacement
+2. Total Knee Replacement (TKA) — Subvastus Approach, Robotic-Assisted
+3. Total Hip Replacement (THR) — Direct Anterior Approach (DAA), Robotic-Assisted
+4. Unicondylar Knee Replacement (UKR)
+5. Knee Scope (Knee Arthroscopy)
+6. Shoulder Scope (Shoulder Arthroscopy)
+
+## Appointment
+- Request via /appointment.html — the clinic contacts the patient regarding availability.
+
+## Important Pages
+- Home: /index.html
+- About: /about.html
+- Treatments: /treatments.html
+- Patient Journey: /patient-journey.html
+- Locations: /locations.html
+- Appointment: /appointment.html
+- FAQ: /faq.html
+- Medical Disclaimer: /medical-disclaimer.html
+
+## Notes
+- All content is educational and not a substitute for personalised medical advice.
+- Suitability of any procedure depends on individual clinical assessment.
